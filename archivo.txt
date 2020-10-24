@@ -1,0 +1,3 @@
+hola, como, estas, 90, 8, hola, if, class, extends, implements, +, ++, +=, ++, :=, ;, ;, equipo3,
+{, }, <, <=, <<, <<<, *, -, -, +45, 45, 90, +9, -9, 9, -7, +0.5, 9, +1.5, hola, 0.5, 1.5, edson, -1.5, -4.5
+adios
